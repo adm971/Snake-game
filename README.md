@@ -9,3 +9,4 @@ Mon premier projet en python : un jeu snake simple codé avec PyGame
 4. cd Snake-game
 5. python main.py
 
+Vous pouvez maintenant jouer avec les touches directionnelles
